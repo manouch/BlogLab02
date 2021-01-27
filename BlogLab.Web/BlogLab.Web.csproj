@@ -4,4 +4,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlogLab02.Models\BlogLab.Models.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KuKXR6AG1/DFdwMuTmGGq0rx4WNhTb+3NX4XgdY8BQBDD13lWixb7J6o6TvJAatxxo0EuncW0fpSkBRdumArJA==",
+  "dgSpecHash": "YawDfwm3q7YwvywAlCFOxi4At7Avc5myNwCaF8WDxsKFglj1Hl/DhXSKXCKsZeGV+Sd6O5cZMffUEAjmOv6odg==",
   "success": true,
   "projectFilePath": "W:\\Development\\05_AspNet_Core_Angular_SQL_Server\\BlogLab02\\BlogLab.Web\\BlogLab.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\manou\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
